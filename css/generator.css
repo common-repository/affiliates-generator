@@ -1,0 +1,24 @@
+.ag-page-url span {
+	display: inline-block;
+	width: 20%;
+	margin-right: 5%;
+}
+.ag-page-url input[type="text"] {
+	width: 50%;
+	margin-right: 5%;
+}
+
+.ag-referral-link span {
+	display: inline-block;
+	width:20%;
+	margin-right: 5%;
+}
+.ag-referral-link input {
+	width:75%;
+}
+
+.ag-description {
+	margin-left: 25%;
+	font-style:italic;
+	color: #939393;
+}

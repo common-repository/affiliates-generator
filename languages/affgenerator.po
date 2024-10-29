@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-14 20:05+0100\n"
+"PO-Revision-Date: 2014-02-14 20:05+0100\n"
+"Last-Translator: eggemplo <eggemplo@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../affiliates-generator.php:61
+msgid "<strong>Affiliates Generator</strong> plugin requires <a href=\"http://www.itthinx.com/plugins/affiliates\" target=\"_blank\">Affiliates</a>."
+msgstr ""
+
+#: ../class-affiliates-generator.php:26
+msgid "Page url:"
+msgstr ""
+
+#: ../class-affiliates-generator.php:28
+msgid "Generate"
+msgstr ""
+
+#: ../class-affiliates-generator.php:34
+msgid "Referral link:"
+msgstr ""
+
+#: ../class-affiliates-generator.php:36
+msgid "(now copy this referral link and share it)"
+msgstr ""
+
